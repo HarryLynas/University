@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/API"/>
+	<classpathentry kind="lib" path="src/resources/javacpp.jar"/>
+	<classpathentry kind="lib" path="src/resources/javacv.jar"/>
+	<classpathentry kind="lib" path="src/resources/bridj-0.6.2.jar"/>
+	<classpathentry kind="lib" path="src/resources/slf4j-api-1.7.10.jar"/>
+	<classpathentry kind="lib" path="src/resources/slf4j-simple-1.7.10.jar"/>
+	<classpathentry kind="lib" path="src/resources/webcam-capture-0.3.10.jar"/>
+	<classpathentry kind="lib" path="src/resources/controlsfx-8.20.8.jar"/>
+	<classpathentry kind="lib" path="src/resources/mailapi-1.4.4.jar"/>
+	<classpathentry kind="lib" path="src/resources/smtp-1.4.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

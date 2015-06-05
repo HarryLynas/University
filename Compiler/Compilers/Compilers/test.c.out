@@ -1,0 +1,37 @@
+KEYWORD int
+KEYWORD main
+40 LPAR
+41 RPAR
+123 LBRACE
+KEYWORD int
+x VARIABLE
+61 ASSIGN
+KEYWORD int
+59 SEMICOL
+125 RBRACE
+
+ERROR: Variable 'KEYWORD' not found in symbol table.
+257
+R -> NULL
+L -> 258
+258
+R -> 123
+L -> 40
+40
+R -> NULL
+L -> 41
+41
+R -> NULL
+L -> NULL
+123
+R -> NULL
+L -> 257
+257
+R -> 61
+L -> 501
+501
+R -> NULL
+L -> NULL
+61
+R -> NULL
+L -> NULL

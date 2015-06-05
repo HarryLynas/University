@@ -1,0 +1,71 @@
+							257
+							R -> 125
+							L -> 258
+						/			\
+					258					125
+					R -> 123			R -> NULL
+					L -> 40				L -> NULL
+				/			\
+			40				123
+			R -> NULL		R -> NULL
+			L -> 41			L -> 257
+		/					/
+	41					257
+	R -> NULL			R -> 61
+	L -> NULL			L -> 501
+						/		\
+					501			61
+					R -> NULL	R -> 43
+					L -> NULL	L -> 499
+								/		\
+							499			43
+							R -> NULL	R -> 59
+							L -> NULL	L -> 499
+										/		\
+									499			59
+									R -> NULL	R -> NULL
+									L -> NULL	L -> 501
+												/
+											501
+											R -> 61
+											L -> NULL
+												\
+												61
+												R -> 59
+												L -> 499
+												/		\
+											499			59
+											R -> NULL	R -> NULL
+											L -> NULL	L -> 257
+														/
+													257
+													R -> 61
+													L -> 502
+
+							257
+							R -> 125
+							L -> 258
+							/		\
+						258			125
+						R -> 123	R -> NULL
+						L -> 40		L -> NULL
+						/		\
+					40			123
+					R -> NULL	R -> NULL
+					L -> 41		L -> 257
+				/				/
+			41				257
+			R -> NULL		R -> 61
+			L -> NULL		L -> 501
+							/		\
+						501			61
+						R -> NULL	R -> 42
+						L -> NULL	L -> 499
+									/		\
+								499			42
+								R -> NULL	R -> 59
+								L -> NULL	L -> 499
+											/		\
+										499			59
+										R -> NULL	R -> NULL
+										L -> NULL	L -> 257

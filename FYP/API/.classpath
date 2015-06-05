@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="API/src/API/resources"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="resources/opencv-2410.jar"/>
+	<classpathentry kind="lib" path="resources/commons-math3-3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="resources/commons-math3-3.3.jar"/>
+	<classpathentry kind="lib" path="resources/Jama-1.0.3.jar"/>
+	<classpathentry kind="lib" path="resources/imgscalr-lib-4.2.jar"/>
+	<classpathentry kind="lib" path="resources/Utils.jar"/>
+	<classpathentry kind="lib" path="resources/jblas-1.2.3.jar"/>
+	<classpathentry kind="lib" path="src/API/resources/opencv.jar"/>
+	<classpathentry kind="lib" path="src/API/resources/mailapi-1.4.4.jar"/>
+	<classpathentry kind="lib" path="src/API/resources/smtp-1.4.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
